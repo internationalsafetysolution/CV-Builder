@@ -26,10 +26,10 @@ export const TemplateSelect = () => {
       <div>
         <OutlinedButton
           onClick={() => {
-            window.open('https://github.com/sadanandpai/resume-builder', '_blank');
+            window.open('https://wa.me/923014552803', '_blank');
           }}
         >
-          Contribute on Github
+          Contribute
         </OutlinedButton>
       </div>
     </div>
